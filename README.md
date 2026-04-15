@@ -136,7 +136,22 @@ This project successfully demonstrates how SDN enables centralized control of ne
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+## 📸 Screenshots
+
+### 🔹 Ping All
+![Ping](screenshots/ping.png)
+
+### 🔹 h1 to h2 Delay
+![h1-h2](screenshots/h1-h2.png)
+
+### 🔹 h1 to h3 Delay
+![h1-h3](screenshots/h1-h3.png)
+
+### 🔹 Throughput using iperf
+![iperf](screenshots/iperf.png)
+
+### 🔹 Flow Table
+![flow](screenshots/flowtable.png)
 
 ---
 
